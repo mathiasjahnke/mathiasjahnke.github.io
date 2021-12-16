@@ -1,29 +1,28 @@
-[
-  {
-    title: "Master Thesis Title",
-    author: "Master Thesis Author",
-    year: 2019,
-    thesis_type: "Master Thesis",
-    cooperation: "",
-    supervisor: "Mathias Jahnke",
-    institution: "TUM"
-  },
-  {
-    title: "Bachelor Thesis Title",
-    author: "Bachelor Thesis Author",
-    year: 2020,
-    thesis_type: "Machelor Thesis",
-    cooperation: "",
-    supervisor: "Mathias Jahnke",
-    institution: "TUM"
-  },
-  {
-    title: "project title",
-    author: "project author",
-    year: 2020,
-    thesis_type: "Cartigraphic Project",
-    cooperation: "some company",
-    supervisor: "Mathias Jahnke",
-    institution: "TUM"
-  }
+[{
+        "title": "Master Thesis Title",
+        "author": "Master Thesis Author",
+        "year": 2019,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Bachelor Thesis Title",
+        "author": "Bachelor Thesis Author",
+        "year": 2020,
+        "thesis_type": "Machelor Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "project title",
+        "author": "project author",
+        "year": 2020,
+        "thesis_type": "Cartigraphic Project",
+        "cooperation": "some company",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    }
 ]
