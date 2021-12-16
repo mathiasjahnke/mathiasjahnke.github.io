@@ -1,0 +1,14 @@
+[
+  {
+    title: "nothing",
+    author: "nothing",
+    year: 2019,
+    thesis_type: "Master Thesis"
+  },
+  {
+    title: "nothing2",
+    author: "author",
+    year: 2020,
+    thesis_type: "Machelor Thesis"
+  }
+]
