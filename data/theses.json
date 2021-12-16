@@ -1,7 +1,7 @@
 [
   {
-    title: "nothing",
-    author: "nothing",
+    title: "Master Thesis Title",
+    author: "Master Thesis Author",
     year: 2019,
     thesis_type: "Master Thesis",
     cooperation: "",
@@ -9,8 +9,8 @@
     institution: "TUM"
   },
   {
-    title: "nothing2",
-    author: "author",
+    title: "Bachelor Thesis Title",
+    author: "Bachelor Thesis Author",
     year: 2020,
     thesis_type: "Machelor Thesis",
     cooperation: "",
