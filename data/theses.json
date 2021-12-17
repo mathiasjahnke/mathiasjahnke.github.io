@@ -1,6 +1,132 @@
 [{
-        "title": "Master Thesis Title",
-        "author": "Master Thesis Author",
+        "title": "Dashboard basierte Visualisierung von Erdbebendaten",
+        "author": "Felix Olbrich",
+        "year": 2020,
+        "thesis_type": "Bachelor Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Individualisiertes Shading mit GLSL",
+        "author": "Johann Maximilian Zollner",
+        "year": 2018,
+        "thesis_type": "Bachelor Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke; Juliane Cron",
+        "institution": "TUM"
+    },
+    {
+        "title": "3D Rekonstruktion und Visualisierung des Gepatschferners",
+        "author": "Felix Gummel",
+        "year": 2016,
+        "thesis_type": "Bachelor Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Evaluation von Visualisierungsansätzen für 3D Stadtmodelle",
+        "author": "Aleksandra Sopek",
+        "year": 2017,
+        "thesis_type": "Bachelor Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Comicartige Visualisierung von 3D Stadtmodellen",
+        "author": "Bilal Altiparmak",
+        "year": 2010,
+        "thesis_type": "Bachelor Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Testing approaches to visualize land cover/land use changes in time series with cloud-based tools",
+        "author": "Jesse Friend",
+        "year": 2021,
+        "thesis_type": "Master Thesis",
+        "cooperation": "GAF AG",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Über die Kunst mit Karten Geschichten zu erzählen - Gemeinsamkeiten und Unterschiede von Visual-Storytelling und Kartographie",
+        "author": "Pablo Frank",
+        "year": 2015,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Qualitative EValuation of Geocoding Services - on the Example of the Insurance Industry",
+        "author": "Aleksandra Sopek",
+        "year": 2020,
+        "thesis_type": "Master Thesis",
+        "cooperation": "Munich RE",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Communicating Disaster Risk Information - Cartographic Dashboards and Mixed Reality",
+        "author": "John McCall",
+        "year": 2021,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "User-Centric Geospatial Analytics and Visualization of catastrophe risk portfolio using the example of the insurance industry",
+        "author": "Lin Zhu",
+        "year": 2020,
+        "thesis_type": "Master Thesis",
+        "cooperation": "Allianz AG",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Improvement of Decision Making and Communication in Disaster Risk Management through Cartographic Dashboards",
+        "author": "Rosalie Stephanie Kremser",
+        "year": 2020,
+        "thesis_type": "Master Thesis",
+        "cooperation": "GAF AG",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "A Systematic Approach to Formulate Design Recommendations for Location-based Stories in Augmented Reality",
+        "author": "Nuzhat Tabassum Nawshin",
+        "year": 2020,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Visualizing Mobile Network Data - A User-Centered Design Approach Connecting Visual Analytics to Urban Public Transport Planing",
+        "author": "Laura Verena Klasen",
+        "year": 2020,
+        "thesis_type": "Master Thesis",
+        "cooperation": "Fraunhofer IAIS",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Supporting Enhanced Disaster Management with Interactive 3D and Mixed Reality Maps",
+        "author": "Kevin Patrick Helzel",
+        "year": 2019,
+        "thesis_type": "Master Thesis",
+        "cooperation": "GAF AG",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Design Guidelines for Mobile Augmented Reality Reconstruction",
+        "author": "Peilun Yuan",
         "year": 2019,
         "thesis_type": "Master Thesis",
         "cooperation": "",
@@ -8,21 +134,13 @@
         "institution": "TUM"
     },
     {
-        "title": "Bachelor Thesis Title",
-        "author": "Bachelor Thesis Author",
-        "year": 2020,
-        "thesis_type": "Machelor Thesis",
+        "title": "A Comparative Study of 3D Visualization versus Immersive Visualization",
+        "author": "Irhamillah Khamsim",
+        "year": 2019,
+        "thesis_type": "Master Thesis",
         "cooperation": "",
         "supervisor": "Mathias Jahnke",
         "institution": "TUM"
-    },
-    {
-        "title": "project title",
-        "author": "project author",
-        "year": 2020,
-        "thesis_type": "Cartigraphic Project",
-        "cooperation": "some company",
-        "supervisor": "Mathias Jahnke",
-        "institution": "TUM"
     }
+
 ]
