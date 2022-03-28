@@ -339,5 +339,59 @@
         "cooperation": "",
         "supervisor": "Mathias Jahnke",
         "institution": "TUM"
-    }
+    },
+     {
+        "title": "Detection and correction of mover identity problems in movement datasets",
+        "author": "Nevil Jose Kodiyan",
+        "year": 2017,
+        "thesis_type": "Master Thesis",
+        "cooperation": "Fraunhofer IAIS",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Combining Open-source Programming Languages with GIS for Spatial Data Science",
+        "author": "Maja Kalinic",
+        "year": 2017,
+        "thesis_type": "Master Thesis",
+        "cooperation": "ESRI Deutschland",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Visual Analysis of Origin/Destination Time Patterns of Travellers",
+        "author": "Katre Karja",
+        "year": 2016,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Space-Time Cube Visualization in a Mixed Reality Environment - New Approaches to Support Understanding Historical Landscape Changes",
+        "author": "Maria Turchenko",
+        "year": 2018,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "Design Guidelines for Mobile Augmented Reality Reconstruction",
+        "author": "Peilun Yuan",
+        "year": 2019,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+    {
+        "title": "User-centric geospatial analytics and visualization of catastrophe risk portfolio using the example of the insurance industry",
+        "author": "Lin Zhu",
+        "year": 2020,
+        "thesis_type": "Master Thesis",
+        "cooperation": "Allianz Global Corporate & Speciality SE",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
 ]
