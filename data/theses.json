@@ -141,6 +141,196 @@
         "cooperation": "",
         "supervisor": "Mathias Jahnke",
         "institution": "TUM"
-    }
-
+    },
+     {
+        "title": "Über die Kunst mit Karten Geschichten zu erzählen - Gemeinsamkeiten und Unterschiede von Visual Storytelling and Kartographie",
+        "author": "Pablo Frank",
+        "year": 2015,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "3D Thematic Mapping and Visualization in CesiumJS Virtual Globe",
+        "author": "Dayanc Moradi",
+        "year": 2017,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Localization Assessment in Complex Environments",
+        "author": "Alexander Walton",
+        "year": 2018,
+        "thesis_type": "Master Thesis",
+        "cooperation": "globalDrive 17/18",
+        "supervisor": "Mathias Jahnke, Christian Murphy",
+        "institution": "TUM"
+    },
+     {
+        "title": "Online Visualization of multi dimensional spatio temporal data - Visualization of weather data of Germany in a large time scale",
+        "author": "Keni Han",
+        "year": 2017,
+        "thesis_type": "Master Thesis",
+        "cooperation": "ESRI Deutschland",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Building visual overview of potential inefficiencies in heterogeneous mobility system",
+        "author": "Yueying Lu",
+        "year": 2017,
+        "thesis_type": "Master Thesis",
+        "cooperation": "Fraunhofer IAIS",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Methodology for evaluation of precision and accuracy of different geometric 3D data acquisition methods",
+        "author": "Ana Carolina do Nascimento Melo",
+        "year": 2017,
+        "thesis_type": "Master Thesis",
+        "cooperation": "Fraunhofer IGD",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Integrated Web Based Visualization of Railway Track Information",
+        "author": "Yozssef Zouine",
+        "year": 2015,
+        "thesis_type": "Master Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Procedural 3D modelling and visualization of geotypical Bavarian rural Buildings in ESRI CityEngine software",
+        "author": "Ieva Dobraja",
+        "year": 2015,
+        "thesis_type": "Master Thesis",
+        "cooperation": "ESRI Deutschland",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Bridging the gap between augmented reality and public transport",
+        "author": "Markus Meyer, Robin Hipp",
+        "year": 2020,
+        "thesis_type": "Seminar Cartography",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Multidimensional and Multivariate Visualizations using web Technologies",
+        "author": "Jiarui Zhang",
+        "year": 2020,
+        "thesis_type": "Seminar Cartography",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Multidimensionale Visualisierung mit D3.js",
+        "author": "Luka Sachße",
+        "year": 20??,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Big Data in der Kartographie - von den Daten zur Darstellung",
+        "author": "Sven van Crombrugge",
+        "year": 2014,
+        "thesis_type": "Bachelor Thesis",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Erzeugung nicht-photorealistischer Abbildungen mit Segmentierungs- und morphologischen Algorithmen",
+        "author": "Andreas Felbier",
+        "year": 2007,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke, Jens Leitloff",
+        "institution": "TUM"
+    },
+     {
+        "title": "2D-Visualisierung von 3D-Routen für die Innenraumnavigation",
+        "author": "Pablo Frank",
+        "year": 2015,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Evaluation von Liniengeneralisierungsalgorithmen am Beispiel des Amazonas",
+        "author": "Leonhard Stöckle, Thomas Stark",
+        "year": 2017,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Verschiedene Ansätze der 3D Modellierung am Beispiel der Studentenstadt München",
+        "author": "Barbara Stephan",
+        "year": 2017,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Informationsvisualisierungen in der Kartographie - Ein Anwendungsbeispiel",
+        "author": "Beatrice Waldner",
+        "year": 2017,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Royal Castle Warsaw - Webbasierte Darstellung mit Cesium",
+        "author": "Theresa Corduro",
+        "year": 2017,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Digitale Archivierung und Bereitsellung historische Hochgebirgskarten",
+        "author": "Lukas Liebel, Josef Loibl",
+        "year": 2016,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke, Holger Kumke",
+        "institution": "TUM"
+    },
+     {
+        "title": "3D Modellierung des Gepatschferners mit Visual SFM",
+        "author": "Daniel Sulug",
+        "year": 2018,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+     {
+        "title": "Visualisierung NFL bezogener Daten mittels HTML, CSS, JavaScript und Matlab",
+        "author": "David Kreuzpaintner",
+        "year": 2018,
+        "thesis_type": "Cartographic Project",
+        "cooperation": "",
+        "supervisor": "Mathias Jahnke",
+        "institution": "TUM"
+    },
+ 
+ 
 ]
