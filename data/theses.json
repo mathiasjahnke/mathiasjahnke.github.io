@@ -84,7 +84,7 @@
         "author": "Lin Zhu",
         "year": 2020,
         "thesis_type": "Master Thesis",
-        "cooperation": "Allianz AG",
+        "cooperation": "Allianz Global Corporate & Speciality SE",
         "supervisor": "Mathias Jahnke",
         "institution": "TUM"
     },
@@ -373,24 +373,6 @@
         "year": 2018,
         "thesis_type": "Master Thesis",
         "cooperation": "",
-        "supervisor": "Mathias Jahnke",
-        "institution": "TUM"
-    },
-    {
-        "title": "Design Guidelines for Mobile Augmented Reality Reconstruction",
-        "author": "Peilun Yuan",
-        "year": 2019,
-        "thesis_type": "Master Thesis",
-        "cooperation": "",
-        "supervisor": "Mathias Jahnke",
-        "institution": "TUM"
-    },
-    {
-        "title": "User-centric geospatial analytics and visualization of catastrophe risk portfolio using the example of the insurance industry",
-        "author": "Lin Zhu",
-        "year": 2020,
-        "thesis_type": "Master Thesis",
-        "cooperation": "Allianz Global Corporate & Speciality SE",
         "supervisor": "Mathias Jahnke",
         "institution": "TUM"
     },
